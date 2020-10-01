@@ -1,2 +1,2 @@
 # awesome-next
-this is
+this is awesome
